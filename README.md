@@ -41,7 +41,7 @@ feature-store-delta/
 │   └── raw/
 │       └── user_events.csv
 │
-├── delta/
+├── delta/                  # generated at runtime (not committed)
 │   ├── bronze/
 │   │   └── user_events/
 │   └── features/
